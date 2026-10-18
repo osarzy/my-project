@@ -7,3 +7,7 @@
 ## Detention
 
 ![Detention](detention.png)
+
+## Scolding
+
+![Scolding the assistant](scolding.png)
